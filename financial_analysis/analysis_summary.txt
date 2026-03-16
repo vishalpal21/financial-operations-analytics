@@ -1,0 +1,25 @@
+
+FINANCIAL OPERATIONS ANALYSIS SUMMARY
+======================================================================
+
+OVERALL PERFORMANCE:
+- Total Net Sales: $110,782,696.23
+- Total Profit: $15,157,247.29
+- Net Profit Margin: 13.68%
+- Total Units Sold: 1,039,626
+
+TOP PERFORMING SEGMENT:
+- Government: $10,270,950.18 profit
+
+TOP PERFORMING PRODUCT:
+- Paseo: $4,286,027.96 profit
+
+DISCOUNT EFFECTIVENESS:
+- Average Discount Rate: 7.67%
+- Best Performing Discount Band: Low
+
+RECOMMENDATIONS:
+1. Focus on high-margin segments and products
+2. Optimize discount strategy to maintain profitability
+3. Investigate loss-making products/segments
+4. Monitor monthly trends for seasonal patterns
